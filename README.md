@@ -1,4 +1,4 @@
-# Acme Bank Corporation Churn Predict :classical_building: :euro: :credit_card: dollar:
+# Acme Bank Corporation Churn Predict :classical_building: :euro: :credit_card: :dollar:
 Previsão de Churn em serviços Bancários para a ACME corporation
 ### Em desenvolvimento :construction:
  
