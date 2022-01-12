@@ -22,3 +22,5 @@ Previsão de Churn em serviços Bancários para a ACME Bank corporation
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"> 
+ 
+ ![image](https://www.dafont.com/forum/attach/orig/2/5/25141.jpg)
