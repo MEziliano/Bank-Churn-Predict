@@ -4,8 +4,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
-Projeto sobre a detecção de doenças coronárias utilizando Inteligência Artificial com Python <br>
-Previsão de Churn em serviços Bancários para a ACME corporation
+
+Previsão de Churn em serviços Bancários para a ACME Bank corporation
+
 ### Em desenvolvimento :construction:
  
 ![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
