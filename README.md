@@ -5,7 +5,9 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
 
-Churn prediction for bank services at ACME Corporation
+Churn prediction for bank services at ACME Corporation. 
+
+The classic idea of data Science trying to predict if a costomer will quit or not quit. 
 
 ### Under devolopment :construction:
  
@@ -22,6 +24,10 @@ Churn prediction for bank services at ACME Corporation
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" target="_blank"> 
- </div>
+</div>
+ 
+ 
  <h3>  last but not least </h3>
+ 
+ 
  ![image](https://www.dafont.com/forum/attach/orig/2/5/25141.jpg)
