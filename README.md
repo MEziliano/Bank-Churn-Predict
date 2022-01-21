@@ -5,16 +5,16 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
 
-Previsão de Churn em serviços Bancários para a ACME Bank corporation
+Churn prediction for bank services at ACME Corporation
 
-### Em desenvolvimento :construction:
+### Under devolopment :construction:
  
 ![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
 
 
 
 
-<h3> Utilizados nesse projeto! </h3>
+<h3> Used in the project! </h3>
 
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank"> </a>
