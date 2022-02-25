@@ -1,9 +1,9 @@
 # Acme Bank Corporation Churn Predict :classical_building: :euro: :credit_card: :dollar:
-![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/regressao-internacao_SUS?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/regressao-internacao_SUS?style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/MEziliano/regressao-internacao_SUS?style=for-the-badge)](https://github.com/MEziliano/regressao-internacao_SUS/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Bank-Churn-Predict?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Bank-Churn-Predict?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/MEziliano/Bank-Churn-Predict?style=for-the-badge)](https://github.com/MEziliano/Bank-Churn-Predict/issues)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/regressao-internacao_SUS?style=for-the-badge) </br>
+![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/Bank-Churn-Predict?style=for-the-badge) </br>
 
 
 <h2> Introduction </h2> 
