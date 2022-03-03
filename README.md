@@ -50,12 +50,16 @@ Exited: Indicate if the customer left the financial institution (churn). This is
 
 <h2> Exploratory Data Analysis — EDA </h2>
 
+At the part of the Exploratory Data Analysis was possible check which features could be splited to the better performance of the Machine Learning. 
+
+<h2> Machine Learning </h2>
+
 ### Under devolopment :construction:
  
 ![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
 
 
-<h2> Machine Learning </h2>
+
 
 
 <h3> Used in the project! </h3>
