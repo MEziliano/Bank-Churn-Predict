@@ -12,7 +12,7 @@ Churn prediction for bank services at ACME Corporation.
 
 The classic idea of data Science trying to predict if a customer will quit or not quit. 
 
-<details><summary>Data Dictionary</summary>
+<details><summary><h3>Data Dictionary</h3></summary>
 <p>
 
 | Column  | Description | Data Type
@@ -23,15 +23,15 @@ The classic idea of data Science trying to predict if a customer will quit or no
 | Geography             | Residence by country | Discrete variable|
 | Gender                | The customer gender| Binary category as string type|
 | Age                   | age in years| continnuos variable|
-| Tenure                | | |
-| Balance               | | |
-| NumOfProducts         | | |
-| HasCard               | | |
-| IsActiveMember        | | |
-| EstimatedSalary       | | |
+| Tenure                | The number of customer possessions| discrete variable|
+| Balance               | Account balance| numerical continuos |
+| NumOfProducts         | The number of financial products used by the customer| numerical discrete variable|
+| HasCard               | Has or not credit card| binary variable|
+| IsActiveMember        | Indicates if the costumer is active or not| binary variable|
+| EstimatedSalary       | Estimated Salary| continuous variable|
 | Exited                | Costumers who get out the service | Target in classification model |
  
-RowNumber: The row number of each observation, corresponding to a specific customer. (meaningless variable)
+<!-- RowNumber: The row number of each observation, corresponding to a specific customer. (meaningless variable)
 CustomerId: . (meaningless variable)
 Surname: . (meaningless variable)
 CreditScore: . (numerical discrete variable)
@@ -40,11 +40,11 @@ Gender: . (categorical nominal variable)
 Age: The customer age, in integer years. (numerical discrete variable)
 Tenure: The number of customer possessions. (numerical discrete variable)
 Balance: The value of the customer account balance. (numerical discrete variable)
-NumOfProducts: The number of financial products used by the customer. (numerical discrete variable)
+NumOfProducts:  (numerical discrete variable)
 HasCrCard: Indicate if the customer has a credit card or not. (logical variable)
 IsActiveMember: Indicate if the customer is an active member of the financial institution. (logical variable)
 EstimatedSalary: Estimated salary of the customer. (numerical discrete variable)
-Exited: Indicate if the customer left the financial institution (churn). This is the outcome variable. (logical variable)
+Exited: Indicate if the customer left the financial institution (churn). This is the outcome variable. (logical variable) -->
  </p>
 </details>
 
