@@ -17,19 +17,19 @@ The classic idea of data Science trying to predict if a customer will quit or no
 
 | Column  | Description | Data Type
 | ------------- | ------------- | ------------- | 
-| CustomrtId            | The customer unique identifying number | |
-| Surname               | The customer surname | |
-| CreditScore           | The customer credit rank in the bank | Target at the regression model| |
-| Geography             | Residence by country | |
-| Gender                | The customer gender| |
-| Age                   | age in years| |
-| Tenure                | resting electrocardiographic results| |
-| Balance               | maximum heart rate achieved| |
-| NumOfProducts         | exercise induced angina (1 = yes; 0 = no)| |
-| HasCard               | ST depression induced by exercise relative to rest| |
-| IsActiveMember        | the slope of the peak exercise ST segment| |
-| EstimatedSalary       | number of major vessels (0-3) colored by flourosopy| |
-| Exited                | Target in classification model| |
+| CustomrtId            | The customer unique identifying number | id |
+| Surname               | The customer surname | string type|
+| CreditScore           | The customer credit rank in the bank | Continuous variable|
+| Geography             | Residence by country | Discrete variable|
+| Gender                | The customer gender| Binary category as string type|
+| Age                   | age in years| continnuos variable|
+| Tenure                | | |
+| Balance               | | |
+| NumOfProducts         | | |
+| HasCard               | | |
+| IsActiveMember        | | |
+| EstimatedSalary       | | |
+| Exited                | Costumers who get out the service | Target in classification model |
  
 RowNumber: The row number of each observation, corresponding to a specific customer. (meaningless variable)
 CustomerId: . (meaningless variable)
