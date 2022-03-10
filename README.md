@@ -5,6 +5,9 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/MEziliano/Bank-Churn-Predict?style=for-the-badge) </br>
 
+### Under devolopment :construction:
+ 
+![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
 
 <h2> Introduction </h2> 
 
@@ -55,10 +58,6 @@ At the part of the Exploratory Data Analysis was possible check which features c
 <h2> Machine Learning </h2>
 
 At the part of the Machine Learning a several models was trained, after that was possible to pick one and choose the best parameter aiming at the best performance.
-
-### Under devolopment :construction:
- 
-![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
 
 
 
