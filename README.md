@@ -59,7 +59,8 @@ At the part of the Exploratory Data Analysis was possible check which features c
 
 At the part of the Machine Learning a several models was trained, after that was possible to pick one and choose the best parameter aiming at the best performance.
 
-
+<h3> Hyperparameter</h3>
+After all, it was necessary to improve the best and made the deploy. 
 
 
 
