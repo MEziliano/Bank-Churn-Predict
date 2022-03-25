@@ -61,6 +61,7 @@ At the part of the Machine Learning a several models was trained, after that was
 
 <h3> Hyperparameter</h3>
 After all, it was necessary to improve the best and made the deploy. 
+<h3> Deploy 
 
 
 
