@@ -7,7 +7,6 @@
 
 ### Under devolopment :construction:
  
-![image](https://user-images.githubusercontent.com/77080184/148253168-e4e8dbd2-0ab5-43ee-b4c4-46f1064b340a.png)
 
 <h2> Introduction </h2> 
 
@@ -78,15 +77,14 @@ After all, it was necessary to improve the best and made the deploy.
 </div>
  
  
- <h3>  last but not least </h3>
- 
- 
- ![image](https://www.dafont.com/forum/attach/orig/2/5/25141.jpg)
-
+<!--
+<h3>  last but not least </h3> 
+![image](https://www.dafont.com/forum/attach/orig/2/5/25141.jpg)
+-->
 
 <!--
 
-<h2> Used in the project! </h2>
+<h2> Used in the project </h2>
 <div>
 <a href="https://www.kaggle.com/kmalit/bank-customer-churn-prediction/data"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://colab.research.google.com/drive/1Mlj9hkHyPX7AiYvmwCotn0UeSJNAImuL"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Open In Colab"/></a> 
