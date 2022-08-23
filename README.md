@@ -1,6 +1,7 @@
 # Acme Bank Corporation Churn Predict :classical_building: :euro: :credit_card: :dollar:
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Bank-Churn-Predict?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Bank-Churn-Predict?style=for-the-badge)
+![BadgeLincese](https://img.shields.io/github/license/MEziliano/Bank-Churn-Predict?style=for-the-badge) 
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/Bank-Churn-Predict?style=for-the-badge)](https://github.com/MEziliano/Bank-Churn-Predict/issues)
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=CYAN&style=for-the-badge)
 
@@ -73,7 +74,7 @@ After all, it was necessary to improve the best model and made the deploy. But, 
 </div>
 <div>
 <h3> Check also this comments</h3>
-<a href="https://medium.com/@murilosez06/a-week-inside-a-data-science-project-eabcfd2a2c56" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@murilosez06/churn-bank-predict-3b8be69a34b9" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://www.notion.so/muriloeziliano/Classification-d621168874bf435780c6b63196e4c8cd" target="_blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div> 
 
