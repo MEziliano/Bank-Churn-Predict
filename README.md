@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MEziliano/Bank-Churn-Predict?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MEziliano/Bank-Churn-Predict?style=for-the-badge)
 [![GitHub issues](https://img.shields.io/github/issues/MEziliano/Bank-Churn-Predict?style=for-the-badge)](https://github.com/MEziliano/Bank-Churn-Predict/issues)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=CYAN&style=for-the-badge)
 
 
 <h2> Introduction </h2> 
@@ -45,20 +45,19 @@ The goal of this project is try to predict if a customer will quit or not quit. 
 
 <h2> Exploratory Data Analysis — EDA </h2>
 
-From ten thounsand costumers records in this dataset is possible to check that 20.4% had left the bank services. According to some analyzes performed, it's possible to check the countrie with most churning rate was Germany. But every costumer with all four services had left the bank.  
+From ten thounsand costumers records in this dataset is possible to check that 20.4% had left the bank services. According to some analyzes performed, it's possible to check the countrie with most churning rate was Germany. Also it was checked the proportion of genders and others features, but an interesting observation is: every costumer with all four services had left the bank.  
 
 
 At the part of the Exploratory Data Analysis was possible check which features could be splited to the better performance of the Machine Learning. 
 
 <h2> Machine Learning </h2>
 
-At the part of the Machine Learning a several models was trained, after that was possible to pick one and choose the best parameter aiming at the best performance.
+At the part of the Machine Learning a several models was trained, after that was possible to pick one and choose the best parameter aiming at the best performance according with the metric of accuracy, but other metrics were taken into account.
 
 <h3> Hyperparameter</h3>
-After all, it was necessary to improve the best and made the deploy. 
-<h3> Deploy 
+After all, it was necessary to improve the best model and made the deploy. But, with this big dataset, it's was necessary to develop a few lines of code and work with every parameter separately. Check the code!   
 
-
+-----------------------------
 
 <h3> Used in the project! </h3>
 
